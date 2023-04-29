@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">User Github</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="search">Masukkan Username</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="contentDescription">content description</string>
+    <string name="dark_mode">Change To Dark Mode</string>
+</resources>
